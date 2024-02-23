@@ -1,4 +1,4 @@
-/* styles.css */
+
 body {
     font-family: Arial, sans-serif;
     
@@ -10,5 +10,37 @@ body {
   
   img {
     border: 2px solid #ccc;
+    margin-bottom: 15px;
   }
-  
+ 
+.bg-custom {
+  background-color: #fde2e2; 
+}
+
+.blog-post {
+  margin-bottom: 40px;
+}
+.sidebar {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+.section1 {
+  background-color: #f8d7da;
+  padding: 20px;
+}
+.section2 {
+  background-color: #d4edda;
+  padding: 20px;
+}
+.section3 {
+  background-color: #cce5ff;
+  padding: 20px;
+}
+
+.custom-border {
+  border: 2px solid #007bff;
+}
+.custom-margin {
+  margin-bottom: 20px;
+}
